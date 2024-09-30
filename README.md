@@ -1,4 +1,4 @@
-## Willkommen beim doDDD Meetup!
+## Welcome to the doDDD Meetup!
 
 Welcome to the Domain-driven Design Dortmund ("Do DDD") Meetup, the meeting place for everyone who is enthusiastic about Domain-driven Design!
 
@@ -14,16 +14,11 @@ This group is bi-lingaul, so we can speak both German and English
 
 📌 **Wo:** KPS AG, Am Kai 6, Dortmund-Hörde
 
-♿ Der Zugang ist barrierefrei. 
+♿ Barrier-free access. 
 
-😷 **Corona-Regeln:**
-- ❣️ Auch wenn es keine Pflicht ist, empfehlen wir dir besonders in der Erkältungszeit einen Schnelltest zuhause zu machen und das Meetup zu einem sichereren Ort zu machen.
-* Falls du dich krank/unwohl fühlst oder du Kontakt zu einer positiv getesteten Person hattest bitten wir dich zu Hause zu bleiben. Das nächste Meetup kommt bestimmt!
-* Idealerweise bist du fertig geimpft und/oder genesen
+**Next meetup:** <span id='next'>(bitte JavaScript aktivieren)</span>
 
-Nächster Termin:** <span id='next'>(bitte JavaScript aktivieren)</span>
-
-🗓️ [Zum Kalender hinzufügen](/Polystammtisch_Dortmund.ics)
+🗓️ [Add to calendar](/meetup.ics)
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
