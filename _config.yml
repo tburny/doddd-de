@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
+github:
+  is_project_page: false
+show_downloads: false
+title: Polystammtisch Dortmund
+description: Ein Treffpunkt für Menschen, die konsensuelle nicht-monogame Lebensformen leben, leben wollen oder hierfür aufgeschlossen und interessiert sind.
