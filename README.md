@@ -10,15 +10,19 @@ We look forward to welcoming you to our next Meetup and exploring and deepening 
 
 This group is bi-lingaul, so we can speak both German and English
  
-🕖 **Wann:** Jeden 4. Mittwoch im Monat um 19:30 / Einlass ab 19 Uhr über den Eingang an der Seeseite. 
+🕖 **When:** Every 4th Wednesday eah month at 19:30 h / Entry starting from 19 h. Please use the entry on the lakeside. 
+             
+🗓️ [Add to calendar](/meetup.ics)
 
-📌 **Wo:** KPS AG, Am Kai 6, Dortmund-Hörde
+📌 **Where:** KPS AG, Am Kai 6, Dortmund-Hörde
 
 ♿ Barrier-free access. 
 
 **Next meetup:** <span id='next'>(bitte JavaScript aktivieren)</span>
 
-🗓️ [Add to calendar](/meetup.ics)
+# Contact
+Find our email here: <a target="_blank" href="https://mailhide.io/e/tySd1Lbd">https://mailhide.io/e/tySd1Lbd</a> 
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
